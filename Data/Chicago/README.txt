@@ -11,3 +11,5 @@ EXAMPLE USAGE:
 >> folder = "Data/Chicago/"
 >> crime_files = sorted(glob.glob(folder+"*.csv"))
 >> df = pd.concat([pd.read_csv(f) for f in crime_files])
+
+* Needed a minimum ammount of data due to data restrictions - per Mr.Josh* (temp)
