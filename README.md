@@ -26,3 +26,9 @@
 - The District 6 police have had the most crimes between the years 2021-2023.
 - The District 3 police have had the least amount of crimes.
 - Both districts are located on the opposite side of each other. District 6 is located near the southern side and District 3 is on the northern side.
+
+# Tableau Dashboard
+
+![Screenshot 2023-07-20 231058](https://github.com/CaillahR/Chicago-Crime-Data/assets/121994185/822bfe74-039e-44c3-82a2-612282ec053a)
+
+https://public.tableau.com/views/ChicagoDataDashboard_16898905091910/ChicagoCrimeMainDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
