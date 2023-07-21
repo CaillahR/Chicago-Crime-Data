@@ -21,7 +21,7 @@
 - New Year's Day has the most number of crimes in Chicago, reaching a little under 2500 in a single day.
 - Independence Day (Observed) has the least amount of crimes committed. Independence Day Observed is the Friday or Saturday after Independence Day; if Independence Day landed on a Saturday or Sunday.
 
-![Most Crime Per District](https://github.com/CaillahR/Chicago-Crime-Data/assets/121994185/b9f5b687-2112-4a9f-b6b9-381e8dcb48b3)
+![Most Crime Per District (1)](https://github.com/CaillahR/Chicago-Crime-Data/assets/121994185/4d60004d-4218-4e3a-bc17-aa3493ed4d16)
 
 - The District 6 police have had the most crimes between the years 2021-2023.
 - The District 3 police have had the least amount of crimes.
